@@ -1,19 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="app_name">
-        Daily Habit Tracker
+        Pelacak Habit Harian
     </string>
 
     <string name="title_habit">
-        Daily Habit Tracker
+        Pelacak Habit Harian
     </string>
 
     <string name="empty_habit">
-        No habit available
+        Tidak ada habit
     </string>
 
     <string name="add_habit">
-        Add Habit
+        Tambah Habit
     </string>
 
     <string name="edit_habit">
@@ -21,75 +22,75 @@
     </string>
 
     <string name="habit_title">
-        Habit Title
+        Judul Habit
     </string>
 
     <string name="category">
-        Category
+        Kategori
     </string>
 
     <string name="study">
-        Study
+        Belajar
     </string>
 
     <string name="workout">
-        Workout
+        Olahraga
     </string>
 
     <string name="reading">
-        Reading
+        Membaca
     </string>
 
     <string name="health">
-        Health
+        Kesehatan
     </string>
 
     <string name="completed">
-        Completed
+        Selesai
     </string>
 
     <string name="not_completed">
-        Not Completed
+        Belum Selesai
     </string>
 
     <string name="back">
-        Back
+        Kembali
     </string>
 
     <string name="save">
-        Save
+        Simpan
     </string>
 
     <string name="other">
-        More
+        Lainnya
     </string>
 
     <string name="delete">
-        Delete
+        Hapus
     </string>
 
     <string name="confirm_delete">
-        Delete this habit?
+        Hapus habit ini?
     </string>
 
     <string name="cancel">
-        Cancel
+        Batal
     </string>
 
     <string name="grid">
-        Grid View
+        Tampilan Grid
     </string>
 
     <string name="list">
-        List View
+        Tampilan List
     </string>
 
     <string name="please_fill">
-        Please fill all fields
+        Harap isi semua field
     </string>
 
     <string name="success">
-        Successfully saved
+        Berhasil disimpan
     </string>
 
 </resources>
